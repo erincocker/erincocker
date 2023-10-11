@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **erincocker/erincocker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Erin🌻
+- maths graduate from the university of cambridge ➕➖✖➗
+- currently learning python 🐍
+- creating a song ranking program (for taylor swift's discography (most of it))💃
