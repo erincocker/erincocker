@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Erin🌻
-- maths graduate from the university of cambridge ➕➖✖➗
-- currently learning python 🐍
-- creating a song ranking program (for taylor swift's discography (most of it))💃
+
