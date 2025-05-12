@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Erin🌻
+See www.github.com/erincocker1 for some of my other projects completed at work!
 
